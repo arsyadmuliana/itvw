@@ -8,7 +8,7 @@ public class Cart {
   private final List<Product> productList = new ArrayList<>();
   private final Map<String, Integer> productSum = new HashMap<>();
 
-  public void addProduct(Product product) {
+  public void addProduct() {
     //to do
   }
 
